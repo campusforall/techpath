@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explore universities and degree courses in Sri Lanka for Technology stream students.">
+  <title>Universities & Degrees | TechPath</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="subject-page university-page">
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <div class="cursor-glow" aria-hidden="true"></div>
+  <div class="page-glow glow-one"></div>
+  <div class="page-glow glow-two"></div>
+
+  <header class="site-header" id="top">
+    <a class="brand" href="index.html" aria-label="TechPath home">
+      <span class="brand-mark">T<span>P</span></span>
+      <span>Tech<span>Path</span></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="index.html#subjects">Subjects</a>
+      <a href="index.html#resources">All resources</a>
+      <a class="nav-cta" href="university.html">Universities</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- University List View -->
+    <div id="listView">
+      <section class="subject-hero section-wrap">
+        <a class="back-link" href="index.html#subjects">&#8592; Back to home</a>
+        <div class="subject-hero-grid">
+          <div class="reveal">
+            <p class="overline">Academic pathways</p>
+            <h1>Universities & Degrees</h1>
+            <p>Explore undergraduate degree programs and technology-related courses offered by leading state universities in Sri Lanka.</p>
+            <div class="subject-stats">
+              <span><b id="totalUnisCount">0</b> Universities</span>
+              <span><b id="totalCoursesCount">0</b> Degrees</span>
+            </div>
+          </div>
+          <div class="subject-badge reveal">
+            <span>🎓</span>
+            <p>Future Pathways</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="subject-materials section-wrap" style="padding-top: 0;">
+        <div class="subject-section-title reveal">
+          <p class="overline">Select a university</p>
+          <h2>Sri Lankan State Universities</h2>
+        </div>
+        <div class="subject-grid" id="universityGrid">
+          <!-- Dynamically populated -->
+        </div>
+      </section>
+    </div>
+
+    <!-- University Detail View -->
+    <div id="detailView" hidden>
+      <section class="subject-hero section-wrap">
+        <a class="back-link" href="university.html" id="backToUnisLink">&#8592; Back to universities</a>
+        <div class="subject-hero-grid">
+          <div class="reveal">
+            <p class="overline">University profile</p>
+            <h1 id="uniName">University Name</h1>
+            <p id="uniIntro">University introduction text goes here.</p>
+            <div class="subject-stats">
+              <span><b id="uniCourseCount">0</b> Courses Offered</span>
+              <span><b>State</b> Institution</span>
+            </div>
+          </div>
+          <div class="subject-badge reveal" id="uniLogoBadge">
+            <span id="uniLogo">🏛️</span>
+            <p id="uniCode">UOM</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="subject-materials section-wrap" id="coursesSection">
+        <div class="subject-section-title reveal">
+          <p class="overline">Available pathways</p>
+          <h2>Offered Degree Courses</h2>
+        </div>
+        <div class="resource-grid" id="courseGrid">
+          <!-- Dynamically populated -->
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-top section-wrap">
+      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">T<span>P</span></span><span>Tech<span>Path</span></span></a><p>Resources for the next generation<br>of Sri Lankan technology students.</p></div>
+      <div class="footer-links"><h4>Explore</h4><a href="index.html#resources">Resources</a><a href="index.html#subjects">Subjects</a><a href="index.html#study">Study smart</a></div>
+      <div class="footer-links"><h4>Universities</h4><a href="university.html">All Universities</a></div>
+      <div class="footer-cta"><p>Need subject notes?</p><a class="button primary" href="index.html#subjects">Choose subject &#8594;</a></div>
+    </div>
+    <div class="footer-bottom section-wrap">
+      <p>&copy; <span id="year"></span> TechPath. Made for A/L students.</p>
+      <a href="#top">Back to top &#8593;</a>
+    </div>
+  </footer>
+
+  <script src="resources.js"></script>
+  <script src="university.js"></script>
+</body>
+</html>
