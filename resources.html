@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Complete study resource library. Past papers, textbooks, teachers' guides, model papers, question-wise collections, province papers, and extra notes.">
+  <title>Resource Library | TechPath</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="subject-page resources-page">
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <div class="cursor-glow" aria-hidden="true"></div>
+  <div class="page-glow glow-one"></div>
+  <div class="page-glow glow-two"></div>
+
+  <header class="site-header" id="top">
+    <a class="brand" href="index.html" aria-label="TechPath home">
+      <span class="brand-mark">T<span>P</span></span>
+      <span>Tech<span>Path</span></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="index.html#subjects">Subjects</a>
+      <a href="resources.html">All resources</a>
+      <a href="university.html">Universities</a>
+      <a class="nav-cta" href="resources.html">Resources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="subject-hero section-wrap">
+      <a class="back-link" href="index.html">&#8592; Back to home</a>
+      <div class="subject-hero-grid">
+        <div class="reveal">
+          <p class="overline">Study room</p>
+          <h1>Resource Library</h1>
+          <p>Search, filter, and access all our educational resources. Navigate through textbooks, papers, summaries, and exam guides in one unified console.</p>
+          <div class="subject-stats">
+            <span><b id="libraryCount">0</b> Resources</span>
+            <span><b id="libraryMediums">0</b> Mediums</span>
+            <span><b id="librarySubjects">5</b> Subjects</span>
+          </div>
+        </div>
+        <div class="subject-badge reveal">
+          <span>📚</span>
+          <p>Library Console</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="subject-materials section-wrap" id="library">
+      <div class="subject-controls reveal">
+        <label class="search-box">
+          <span aria-hidden="true">&#9906;</span>
+          <input id="librarySearch" type="search" placeholder="Search papers, subjects, years or topics..." aria-label="Search resources">
+        </label>
+        
+        <div class="filter-row" id="libraryTypeFilters" aria-label="Resource type filters">
+          <button class="filter active" data-type="All">All</button>
+          <button class="filter" data-type="Past Paper">Past papers</button>
+          <button class="filter" data-type="Textbook">Textbooks</button>
+          <button class="filter" data-type="Teachers' Guide">Teachers' guides</button>
+          <button class="filter" data-type="Model Paper">Model papers</button>
+          <button class="filter" data-type="Question-wise Paper">Question-wise papers</button>
+          <button class="filter" data-type="Province Paper">Province papers</button>
+          <button class="filter" data-type="Extra Notes">Extra notes</button>
+        </div>
+
+        <div class="select-row">
+          <select id="librarySubjectFilter" aria-label="Filter by subject">
+            <option value="All">All subjects</option>
+            <option>Engineering Technology</option>
+            <option>Science for Technology</option>
+            <option>Information & Communication Technology</option>
+            <option>Bio Systems Technology</option>
+            <option>Agricultural Science</option>
+          </select>
+          <select id="libraryMediumFilter" aria-label="Filter by medium">
+            <option value="All">All mediums</option>
+            <option>English</option>
+            <option>Sinhala</option>
+            <option>Tamil</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="results-meta" style="color: var(--ink); margin-bottom: 24px;">
+        <p style="color: var(--ink); font-weight: 500;"><span id="resultCount" style="color: var(--coral); font-weight: 800; font-size: 15px;">0</span> resources found</p>
+        <button id="clearFilters" type="button" style="color: var(--purple); font-weight: 700; border: 0; background: none; cursor: pointer;">Clear filters</button>
+      </div>
+
+      <div class="resource-grid" id="libraryGrid"></div>
+      <div class="empty-state" id="libraryEmptyState" hidden style="text-align: center; padding: 50px 20px;">
+        <span style="font-size: 48px;">&#9906;</span>
+        <h3>No resources found</h3>
+        <p>Try searching for another keyword or clearing the filters.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-top section-wrap">
+      <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">T<span>P</span></span><span>Tech<span>Path</span></span></a><p>Resources for the next generation<br>of Sri Lankan technology students.</p></div>
+      <div class="footer-links"><h4>Explore</h4><a href="index.html">Home</a><a href="index.html#subjects">Subjects</a><a href="university.html">Universities</a><a href="index.html#study">Study smart</a></div>
+      <div class="footer-links"><h4>Resources</h4><a href="resources.html?type=Past%20Paper">Past papers</a><a href="resources.html?type=Textbook">Textbooks</a><a href="resources.html?type=Model%20Paper">Model papers</a></div>
+      <div class="footer-cta"><p>Need subject notes?</p><a class="button primary" href="index.html#subjects">Choose subject &#8594;</a></div>
+    </div>
+    <div class="footer-bottom section-wrap">
+      <p>&copy; <span id="year"></span> TechPath. Made for A/L students.</p>
+      <a href="#top">Back to top &#8593;</a>
+    </div>
+  </footer>
+
+  <script src="resources.js"></script>
+  <script src="library.js"></script>
+</body>
+</html>
