@@ -55,6 +55,9 @@ footer {
 }
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
 }
 body {
   margin: 0;
@@ -62,6 +65,9 @@ body {
   background: var(--cream);
   font-family: Manrope, Arial, sans-serif;
   overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+  position: relative;
 }
 button,
 input,
@@ -97,14 +103,26 @@ a {
   background: rgba(115, 87, 255, 0.1);
 }
 .site-header {
-  width: min(1240px, calc(100% - 48px));
+  position: sticky;
+  top: 0;
+  width: 100%;
   height: 88px;
-  margin: auto;
+  margin: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  position: relative;
   z-index: 20;
+  padding-inline: max(24px, calc((100% - 1240px) / 2));
+  background: transparent;
+  transition: background 0.3s, border-color 0.3s, box-shadow 0.3s, height 0.3s, padding-inline 0.3s;
+}
+body.scrolled .site-header {
+  background: rgba(245, 242, 233, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1.5px solid rgba(21, 21, 27, 0.08);
+  box-shadow: 0 8px 30px rgba(21, 21, 27, 0.03);
+  height: 72px;
 }
 .brand {
   display: flex;
@@ -1313,12 +1331,13 @@ body.scrolled .site-header {
   }
 }
 @media (max-width: 680px) {
-  .section-wrap,
-  .site-header {
+  .section-wrap {
     width: min(100% - 30px, 1160px);
   }
   .site-header {
-    height: 72px;
+    width: 100%;
+    padding-inline: 15px;
+    height: 64px;
   }
   .brand {
     font-size: 18px;
@@ -2174,4 +2193,38 @@ footer {
     border-radius: 16px;
     margin-bottom: 40px;
   }
+}
+
+/* Resources Page CTA & New Category Styles */
+.resources-action {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+/* Question-wise Papers styles */
+.resource-type.question {
+  background: #d4eaf7;
+}
+.file-art.question {
+  background: #80c2f1;
+  color: white;
+}
+
+/* Province Papers styles */
+.resource-type.province {
+  background: #ffdfd3;
+}
+.file-art.province {
+  background: #f7a387;
+  color: white;
+}
+
+/* Extra Notes styles */
+.resource-type.notes {
+  background: #e8dff5;
+}
+.file-art.notes {
+  background: #b392ac;
+  color: white;
 }
