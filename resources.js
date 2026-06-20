@@ -43,6 +43,15 @@ const resources = [
   { title: "2017 A/L BST Paper", type: "Past Paper", subject: "Bio Systems Technology", year: 2017, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1vsHgEt9_fIGVS5uPu6XrntYDXuxZ3G1j/view?usp=drive_link" },
   { title: "2016 A/L BST Paper", type: "Past Paper", subject: "Bio Systems Technology", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1DYFCvtR_9y9JgGRH6XHT6LUbxgbtOfyn/view?usp=drive_link" },
 
+  { title: "2025 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1pAMynptH2uMQG78GNqpSt_dfsmpsD2RG/view?usp=drive_link" },
+  { title: "2024 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/11k4es4STkZjaja-YVON-ic7dsBnH1KO5/view?usp=drive_link" },
+  { title: "2023 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1isUyH1vvednI4DB8DW3J-f9JDh7z6y2R/view?usp=drive_link" },
+  { title: "2022 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1HI0h1Ret_4P-2lwgaG41nnJveO2v_YJH/view?usp=drive_link" },
+  { title: "2022 A/L Agri Essay Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1LMBHm6_466HFhtU2ZKkHSFy2K3uN0hy8/view?usp=drive_link" },
+  { title: "2020 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1tpRRXRy4itGuQSIjg6Wf8WgHrILEDOVS/view?usp=drive_link" },
+  { title: "2019 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1k3StdWhP6PdkCR-4ckBatJe1wlkwdwMK/view?usp=drive_link" },
+  { title: "2018 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1hKhPCrZe6JiwRcb_K-GpigP99IQTr0Yi/view?usp=drive_link" },
+  { title: "2017 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2017, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1u-fwSXouxozjI6AIt-CRuQDA6GtjmkpZ/view?usp=drive_link" },
   // Text-Books
 
   { title: "SFT Physics part 1", type: "Textbook", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1vBDwewm4r6E22kGNpVTzdcLFa5ACmE_w/view?usp=drive_link" },
@@ -222,10 +231,7 @@ const universities = [
     logo: "🎓",
     colorClass: "coral",
     courses: [
-      { name: "B.Sc. (Hons) in Engineering (Computer Science & Eng)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Information Technology (IT)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Information Technology & Management (ITM)", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Design (B.Des)", driveUrl: "https://drive.google.com/" }
+      
     ]
   },
   {
@@ -236,10 +242,7 @@ const universities = [
     logo: "🎓",
     colorClass: "coral",
     courses: [
-      { name: "B.Sc. (Hons) in Engineering (Computer Science & Eng)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Information Technology (IT)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Information Technology & Management (ITM)", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Design (B.Des)", driveUrl: "https://drive.google.com/" }
+      
     ]
   },
   {
@@ -250,9 +253,7 @@ const universities = [
     logo: "🏛️",
     colorClass: "violet",
     courses: [
-      { name: "B.Sc. (Hons) in Computer Science (UCSC)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Information Systems (UCSC)", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Technology (B.Tech) in Science", driveUrl: "https://drive.google.com/" }
+      
     ]
   },
   {
@@ -263,9 +264,7 @@ const universities = [
     logo: "🦁",
     colorClass: "yellow",
     courses: [
-      { name: "Bachelor of Engineering Technology (BET)", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Biosystems Technology (BBST)", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Information & Communication Technology (BICT)", driveUrl: "https://drive.google.com/" }
+      
     ]
   },
   {
@@ -276,8 +275,7 @@ const universities = [
     logo: "🍃",
     colorClass: "mint",
     courses: [
-      { name: "Bachelor of Engineering Technology (BET) in Software Engineering", driveUrl: "https://drive.google.com/" },
-      { name: "Bachelor of Information & Communication Technology (BICT)", driveUrl: "https://drive.google.com/" }
+     
     ]
   },
   {
@@ -288,8 +286,7 @@ const universities = [
     logo: "🏔️",
     colorClass: "sky",
     courses: [
-      { name: "B.Sc. in Engineering (Computer/Electrical/Civil)", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. (Hons) in Computation & Management", driveUrl: "https://drive.google.com/" }
+      
     ]
   },
   {
@@ -300,9 +297,7 @@ const universities = [
     logo: "💎",
     colorClass: "pink",
     courses: [
-      { name: "Bachelor of Technology (B.Tech) in Material Science", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. in Computer Science and Technology", driveUrl: "https://drive.google.com/" },
-      { name: "B.Sc. in Industrial Information Technology", driveUrl: "https://drive.google.com/" }
+      
     ]
   }
 ];
