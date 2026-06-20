@@ -25,11 +25,11 @@
       <span></span><span></span><span></span>
     </button>
     <nav class="main-nav" aria-label="Main navigation">
-      <a href="#resources">Resources</a>
+      <a href="resources.html">Resources</a>
       <a href="#subjects">Subjects</a>
       <a href="university.html">Universities</a>
       <a href="#study">Study smart</a>
-      <a class="nav-cta" href="#resources">Find a paper</a>
+      <a class="nav-cta" href="resources.html">Find a paper</a>
     </nav>
   </header>
 
@@ -40,7 +40,7 @@
         <h1>Your next result<br>starts <em>right here.</em></h1>
         <p>Past papers, textbooks, teachers' guides and model papers in one focused place. Less searching. More learning.</p>
         <div class="hero-actions">
-          <a class="button primary" href="#resources">Explore resources <span aria-hidden="true">&#8594;</span></a>
+          <a class="button primary" href="resources.html">Explore resources <span aria-hidden="true">&#8594;</span></a>
           <a class="button secondary" href="#subjects">Browse subjects</a>
         </div>
         <div class="hero-proof">
@@ -107,37 +107,10 @@
           <h2>Find it. Open it.<br><em>Own the lesson.</em></h2>
         </div>
 
-        <div class="resource-toolbar reveal">
-          <label class="search-box">
-            <span aria-hidden="true">&#9906;</span>
-            <input id="resourceSearch" type="search" placeholder="Search papers, subjects or years..." aria-label="Search resources">
-          </label>
-          <div class="filter-row" id="typeFilters" aria-label="Resource type filters">
-            <button class="filter active" data-type="All">All</button>
-            <button class="filter" data-type="Past Paper">Past papers</button>
-            <button class="filter" data-type="Textbook">Textbooks</button>
-            <button class="filter" data-type="Teachers' Guide">Teachers' guides</button>
-            <button class="filter" data-type="Model Paper">Model papers</button>
-          </div>
-          <div class="select-row">
-            <select id="subjectFilter" aria-label="Filter by subject">
-              <option value="All">All subjects</option>
-              <option>Engineering Technology</option>
-              <option>Science for Technology</option>
-              <option>Information & Communication Technology</option>
-              <option>Bio Systems Technology</option>
-              <option>Agricultural Science</option>
-            </select>
-            <select id="mediumFilter" aria-label="Filter by medium">
-              <option value="All">All mediums</option>
-              <option>English</option><option>Sinhala</option><option>Tamil</option>
-            </select>
-          </div>
-        </div>
-
-        <div class="results-meta"><p><span id="resultCount">0</span> resources found</p><button id="clearFilters" type="button">Clear filters</button></div>
         <div class="resource-grid" id="resourceGrid"></div>
-        <div class="empty-state" id="emptyState" hidden><span>&#9906;</span><h3>No resources found</h3><p>Try another search or clear the filters.</p></div>
+        <div class="resources-action reveal">
+          <a class="button primary" href="resources.html">View All Resources <span aria-hidden="true">&#8594;</span></a>
+        </div>
       </div>
     </section>
 
@@ -164,9 +137,9 @@
   <footer>
     <div class="footer-top section-wrap">
       <div><a class="brand footer-brand" href="#top"><span class="brand-mark">T<span>P</span></span><span>Tech<span>Path</span></span></a><p>Resources for the next generation<br>of Sri Lankan technology students.</p></div>
-      <div class="footer-links"><h4>Explore</h4><a href="#resources">Resources</a><a href="#subjects">Subjects</a><a href="university.html">Universities</a><a href="#study">Study smart</a></div>
-      <div class="footer-links"><h4>Resources</h4><a href="index.html?type=Past%20Paper#resources" data-footer-type="Past Paper">Past papers</a><a href="index.html?type=Textbook#resources" data-footer-type="Textbook">Textbooks</a><a href="index.html?type=Model%20Paper#resources" data-footer-type="Model Paper">Model papers</a></div>
-      <div class="footer-cta"><p>Ready to begin?</p><a class="button primary" href="#resources">Start studying &#8594;</a></div>
+      <div class="footer-links"><h4>Explore</h4><a href="resources.html">Resources</a><a href="#subjects">Subjects</a><a href="university.html">Universities</a><a href="#study">Study smart</a></div>
+      <div class="footer-links"><h4>Resources</h4><a href="resources.html?type=Past%20Paper">Past papers</a><a href="resources.html?type=Textbook">Textbooks</a><a href="resources.html?type=Model%20Paper">Model papers</a></div>
+      <div class="footer-cta"><p>Ready to begin?</p><a class="button primary" href="resources.html">Start studying &#8594;</a></div>
     </div>
     <div class="footer-bottom section-wrap"><p>&copy; <span id="year"></span> TechPath. Made for A/L students.</p><a href="#top">Back to top &#8593;</a></div>
   </footer>
