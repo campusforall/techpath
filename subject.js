@@ -5,14 +5,22 @@ const subjectCodes = {
   "Bio Systems Technology": "BST",
   "Agricultural Science": "AGRI"
 };
-const typeClass = { "Past Paper": "paper", "Textbook": "book", "Teachers' Guide": "guide", "Model Paper": "model" };
+const typeClass = { 
+  "Past Paper": "paper", 
+  "Textbook": "book", 
+  "Teachers' Guide": "guide", 
+  "Model Paper": "model",
+  "Question-wise Paper": "question",
+  "Province Paper": "province",
+  "Extra Notes": "notes"
+};
 const subjectCode = subject => subjectCodes[subject] || "TECH";
 
 const params = new URLSearchParams(window.location.search);
 const requestedSubject = params.get("subject");
 const validSubjects = Object.keys(subjectCodes);
 const currentSubject = validSubjects.includes(requestedSubject) ? requestedSubject : validSubjects[0];
-const allowedTypes = ["All", "Past Paper", "Textbook", "Teachers' Guide", "Model Paper"];
+const allowedTypes = ["All", "Past Paper", "Textbook", "Teachers' Guide", "Model Paper", "Question-wise Paper", "Province Paper", "Extra Notes"];
 let activeType = "All";
 
 const subjectItems = resources.filter(item => item.subject === currentSubject);
@@ -43,7 +51,7 @@ function renderSubjectResources() {
         <span class="resource-type ${typeClass[item.type]}">${item.type}</span>
         <span class="subject-code">${subjectCode(item.subject)}</span>
       </div>
-      <div class="file-art ${typeClass[item.type]}"><span>${item.year}</span><b>${subjectCode(item.subject)}</b><i></i></div>
+      <div class="file-art ${typeClass[item.type]}"><span>${item.year || ''}</span><b>${subjectCode(item.subject)}</b><i></i></div>
       <div class="resource-body">
         <p>${item.subject}</p><h3>${item.title}</h3>
         <div class="resource-meta"><span>${item.medium}</span><span>PDF / Drive</span></div>
