@@ -43,15 +43,16 @@ const resources = [
   { title: "2017 A/L BST Paper", type: "Past Paper", subject: "Bio Systems Technology", year: 2017, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1vsHgEt9_fIGVS5uPu6XrntYDXuxZ3G1j/view?usp=drive_link" },
   { title: "2016 A/L BST Paper", type: "Past Paper", subject: "Bio Systems Technology", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1DYFCvtR_9y9JgGRH6XHT6LUbxgbtOfyn/view?usp=drive_link" },
 
-  { title: "2025 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1pAMynptH2uMQG78GNqpSt_dfsmpsD2RG/view?usp=drive_link" },
-  { title: "2024 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/11k4es4STkZjaja-YVON-ic7dsBnH1KO5/view?usp=drive_link" },
-  { title: "2023 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1isUyH1vvednI4DB8DW3J-f9JDh7z6y2R/view?usp=drive_link" },
-  { title: "2022 A/L Agri MCQ Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1HI0h1Ret_4P-2lwgaG41nnJveO2v_YJH/view?usp=drive_link" },
-  { title: "2022 A/L Agri Essay Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1LMBHm6_466HFhtU2ZKkHSFy2K3uN0hy8/view?usp=drive_link" },
-  { title: "2020 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1tpRRXRy4itGuQSIjg6Wf8WgHrILEDOVS/view?usp=drive_link" },
-  { title: "2019 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1k3StdWhP6PdkCR-4ckBatJe1wlkwdwMK/view?usp=drive_link" },
-  { title: "2018 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1hKhPCrZe6JiwRcb_K-GpigP99IQTr0Yi/view?usp=drive_link" },
-  { title: "2017 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2017, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1u-fwSXouxozjI6AIt-CRuQDA6GtjmkpZ/view?usp=drive_link" },
+  { title: "2025 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1OEN5JRzKASQXpiFKCzD3A9X6J_VQd9Hb/view?usp=drive_link" },
+  { title: "2024 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mCff_AQWqooLQve9ECBs3vyz2B22g9PN/view?usp=drive_link" },
+  { title: "2023 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1UjtavMU8nShwZ-QuFDaMGF_-hSdUn-a8/view?usp=drive_link" },
+  { title: "2022 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1m3bHExI5NtqMFuoK0jtS-g7UQxKcOikT/view?usp=drive_link" },
+  { title: "2021 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10SYZeMbQ3xvoa4BHH-VnLYP8D0ai04RE/view?usp=drive_link" },
+  { title: "2020 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1EusZixTxbESuFJoeRpcx6NWX_Za2iHkk/view?usp=drive_link" },
+  { title: "2019 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_4knXwnduUJzAn-bSbPc4hq_G44MwGch/view?usp=drive_link" },
+  { title: "2018 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/13oICyL5hAFmex1T4pt1V3Roo7qSAkead/view?usp=drive_link" },
+  { title: "2017 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2017, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1u1xigRj4VO8Tje3gCzIbLTZmlGcQaxo3/view?usp=drive_link" },
+  { title: "2016 A/L Agri Paper", type: "Past Paper", subject: "Agricultural Science", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1k8TfLSxMYfIrHytQPjEGmFtwv2BrYuve/view?usp=drive_link" },
   // Text-Books
 
   { title: "SFT Physics part 1", type: "Textbook", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1vBDwewm4r6E22kGNpVTzdcLFa5ACmE_w/view?usp=drive_link" },
@@ -80,7 +81,6 @@ const resources = [
   { title: "ICT All lessons Part 1 (Non official)", type: "Textbook", subject: "Information & Communication Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1XSSkuw35-D1XEBx3isHoL5Vz6TxSBrO8/view?usp=drive_link" },
 
   // Teachers Guide
-
   { title: "ET Teachers' Guide - Grade 12", type: "Teachers' Guide", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/14hLWNoDTk_Fuu-Mjk-gW8LV4ncEkcvW1/view?usp=drive_link" },
   { title: "ET Teachers' Guide - Grade 13", type: "Teachers' Guide", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1QUe6sjOSFASDsE_vH974OcS4-UG3ypi4/view?usp=sharing" },
   { title: "BST Teachers' Guide - Grade 12", type: "Teachers' Guide", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1oSnvVnA5nEFtmuQwc6NSN0niljfhac-3/view?usp=drive_link" },
@@ -93,9 +93,6 @@ const resources = [
   { title: "ICT Teachers's Guide - Grade 13", type: "Teachers' Guide", subject: "Information & Communication Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_4rsM484_vGV3PSZgOGX20bWL2zX6tgu/view?usp=drive_link" },
 
   // Model papers
-
- 
-  
   { title: "ET 2025 MOE Paper", type: "Model Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1lzuGvfO4Q8ld3ysfshcUcvvXwt0FoHgC/view?usp=sharing" },
   { title: "ET 2024 MOE Paper", type: "Model Paper", subject: "Engineering Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/12jlUaQmh4uMJKZRzSscSM7agUvCCuwAv/view?usp=drive_link" },
   { title: "ET 2023 MOE Paper", type: "Model Paper", subject: "Engineering Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1tFHYZ0Ct1pe29G8p9fmjD16WN-4V1dx6/view?usp=drive_link" },
@@ -130,7 +127,6 @@ const resources = [
 
   // Question-wise Papers
 
-
   { title: "BST වැවිලි භෝග හා සුලු අපනයන භෝග", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_TEv-99MKH6_CnCkc8BoSy6ti87ThgTB/view?usp=drive_link" },
   { title: "BST ව්‍යාපාර ස්ංවර්ධනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qnwYF64WqSrbAjG_sob70lL6uPED1EUn/view?usp=drive_link" },
   { title: "BST ස්වයංක්‍රියකරණය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1omocaWifZZx2CSCUhj-FzydOTHU6T4t9/view?usp=drive_link" },
@@ -148,11 +144,25 @@ const resources = [
   { title: "BST ගුණාත්මක පැල නිශ්පාදනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10t9RgGmELJhW93U89ocwOfet8TrXHBVk/view?usp=drive_link" },
   { title: "BST ගුණාත්මක ආහාර නිෂ්පාදනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Gd1rInzgNQxCmXPsPyNrSh_VCUgW4r7K/view?usp=drive_link" },
 
-
+  { title: "SFT Area & Volume", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1qEfazMJtOvQd83HTPuD1RsFJ8nscCA5l/view?usp=drive_link" },
+  { title: "SFT Chemistry", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1jeqVTB6Gip5hvT3jCPf3_IXAxvtkx_Ha/view?usp=drive_link" },
+  { title: "SFT Cordinates", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/15_KBA6tjQVQweqnkZkYR79Jxd-wskhDI/view?usp=drive_link" },
+  { title: "SFT Physics", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1tJ7nIF1ebtnHE30qCBGILi1dFcS-hQTb/view?usp=drive_link" },
+  { title: "SFT Statistics", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1jbyIat6nEYVUdbKOkO8rm-oViL99lgnT/view?usp=drive_link" },
 
   { title: "ET MCQ Topic-wise Collection", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/" },
-  { title: "SFT Physics Structured Essay Guide", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/" },
-  { title: "ICT Python Programming Question Bank", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/" },
+  
+
+  { title: "ICT Programming Question Bank", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1PK19pMH6oEooHCKc8ctnBXiBMFcQ-K56/view?usp=drive_link" },
+  { title: "ICT Database", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1fSlDya8pQrFZ9tBlRhne9Lyz4QArO45Y/view?usp=drive_link" },
+  { title: "ICT E-Business & IOT", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1ZOvfcsDTQqbWF1mEaKH6wPBKSI4-cIpy/view?usp=drive_link" },
+  { title: "ICT Logic Gate", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1sIAJ_fxYdRCrSm3CAQl_1Gdyl7PsTd0f/view?usp=drive_link" },
+  { title: "ICT Networking", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1nZQyXUTN7Kmaq60SW1AELXU0N4tnUKhz/view?usp=drive_link" },
+  { title: "ICT Operating System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1E80C5mX21wuLc31k4-dU3hcN8IyGglzj/view?usp=drive_link" },
+  { title: "ICT Programming", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1PK19pMH6oEooHCKc8ctnBXiBMFcQ-K56/view?usp=drive_link" },
+  { title: "ICT System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1cvy30J-g_x0HS1ftYxfpIVQlgv46y8Sq/view?usp=drive_link" },
+  
+
 
   // Province Papers
   { title: "2022 Western Province Paper 01", type: "Province Paper", subject: "Information & Communication Technology", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1YIdFJdDc62y6T0KuuY-0gQDaEaedU5qa/view?usp=drive_link" },
@@ -315,7 +325,40 @@ const universities = [
     logo: "🎓",
     colorClass: "coral",
     courses: [
-      
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1MpXfQ_BQqWGZaccBh0ECcBwd7wGbiRO3/view?usp=drive_link" },
+    ]
+  },
+  {
+    id: "UOJ",
+    name: "University of Jaffna",
+    shortName: "UOJ",
+    intro: "",
+    logo: "🎓",
+    colorClass: "violet",
+    courses: [
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1VWoVIns_8JkyXRw8lJMOKm5RimvGwzSO/view?usp=drive_link" },
+    ]
+  },
+  {
+    id: "UOR",
+    name: "University of Rajarata",
+    shortName: "UOR",
+    intro: "",
+    logo: "🎓",
+    colorClass: "Yellow",
+    courses: [
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/14FGLoIhGM4VR_rAZwpA-XbQlgkJB6D0V/view?usp=drive_link" },
+    ]
+  },
+  {
+    id: "UOS",
+    name: "University of SEUSL",
+    shortName: "UOS",
+    intro: "",
+    logo: "🎓",
+    colorClass: "mint",
+    courses: [
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1C1yu81yY2hh0RflEjnwsbcSrWIYVBfsc/view?usp=drive_link" },
     ]
   },
   {
@@ -337,7 +380,7 @@ const universities = [
     logo: "🏛️",
     colorClass: "violet",
     courses: [
-      
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-lRZwQDTIyItWbRk92MlT9S2evXRBd-L/view?usp=drive_link" },
     ]
   },
   {
@@ -348,7 +391,7 @@ const universities = [
     logo: "🦁",
     colorClass: "yellow",
     courses: [
-      
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1W2e1FPhW7tZeQQlnJh9L2OJ3Xr-bBG01/view?usp=drive_link" },
     ]
   },
   {
@@ -359,7 +402,7 @@ const universities = [
     logo: "🍃",
     colorClass: "mint",
     courses: [
-     
+     { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-TX1yVZVwlD_PKesMXpdxXXHZwrv-13h/view?usp=drive_link" },
     ]
   },
   {
@@ -381,7 +424,7 @@ const universities = [
     logo: "💎",
     colorClass: "pink",
     courses: [
-      
+      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1N1S4Kff_dxlll9P1xeYxQDAhVi_bGgQN/view?usp=drive_link" },
     ]
   }
 ];
