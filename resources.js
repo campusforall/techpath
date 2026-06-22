@@ -129,6 +129,27 @@ const resources = [
   { title: "BST Full Model Paper 3", type: "Model Paper", subject: "Bio Systems Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1jXF6UUPwDwvEyG6LmJ80teVLieyQPjgD/view?usp=sharing" },
 
   // Question-wise Papers
+
+
+  { title: "BST වැවිලි භෝග හා සුලු අපනයන භෝග", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_TEv-99MKH6_CnCkc8BoSy6ti87ThgTB/view?usp=drive_link" },
+  { title: "BST ව්‍යාපාර ස්ංවර්ධනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qnwYF64WqSrbAjG_sob70lL6uPED1EUn/view?usp=drive_link" },
+  { title: "BST ස්වයංක්‍රියකරණය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1omocaWifZZx2CSCUhj-FzydOTHU6T4t9/view?usp=drive_link" },
+  { title: "BST උද්‍යානය විද්‍යාව", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1l3dH8rerBxaTZVB0wJVJB-34R_UJHzbN/view?usp=drive_link" },
+  { title: "BST යාන්ත්‍රීකරානය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/118d21V8VmY3jTk9amasSGgo544VxtwwD/view?usp=drive_link" },
+  { title: "BST බිම් මැනුම සහ මට්ටම් කිරීම", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1WhNAHChO0KUwwaApI8AO2ZZjMy27Etr_/view?usp=drive_link  " },
+  { title: "BST පාලිත පරිසර තත්ව යටතේ භෝග් වගාව", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1QvgEWUPibN7dRMe9Ytu2gGvZW494Oqof/view?usp=drive_link" },
+  { title: "BST පසු අස්වනු තාක්ශන ශිල්ප ක්‍රම", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Zdustu8kB1X_m24_E3yzq5KZgWAfuKj2/view?usp=drive_link" },
+  { title: "BST පස", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1rrLi0htbthLG_mILbDF7zsRc4kDKxjMg/view?usp=drive_link" },
+  { title: "BST දැවමය හා දැවමය නොවන නිෂ්පාදන", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/16k2Y_223SR3d9HtlGyDEkiQfHbMQKP8U/view?usp=drive_link" },
+  { title: "BST තිරසර සංවර්ධනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/139-G3Qmnw3TcMQrXyh754AwEH73_P67k/view?usp=drive_link" },
+  { title: "BST ජෛව පද්ධති සදහ සුදුසු කාලගුණික තත්ව", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1uSqsX6dVia1UA2lr4yLs_uHIczxk9_PF/view?usp=drive_link" },
+  { title: "BST ජලයේ ගුණාත්මක බව", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1l5dSUNK2BnTNJtbr3pIwYzRnMx6ZWCv-/view?usp=drive_link" },
+  { title: "BST ගොවිපල සත්ව නිෂ්පාදනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Q9ItIeAcQfx__OR6R5kZJd74C5vgRisV/view?usp=drive_link" },
+  { title: "BST ගුණාත්මක පැල නිශ්පාදනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10t9RgGmELJhW93U89ocwOfet8TrXHBVk/view?usp=drive_link" },
+  { title: "BST ගුණාත්මක ආහාර නිෂ්පාදනය", type: "Question-wise Paper", subject: "Bio Systems Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Gd1rInzgNQxCmXPsPyNrSh_VCUgW4r7K/view?usp=drive_link" },
+
+
+
   { title: "ET MCQ Topic-wise Collection", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/" },
   { title: "SFT Physics Structured Essay Guide", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/" },
   { title: "ICT Python Programming Question Bank", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/" },
