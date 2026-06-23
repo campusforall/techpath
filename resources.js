@@ -225,6 +225,13 @@ const resources = [
   { title: "2021 SFT North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1uLB4SwYiXM145Z8s8HoQW0UWdw81CtMj/view?usp=drive_link" },
   { title: "2021 SFT Grade 12 North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1jbg90iTXIMQxOKPXUgmBo2bMuty2dZxd/view?usp=drive_link" },
   { title: "2021 SFT Central Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1umL3Lv3dUqEviycFdUMa5ZRygAoMvj4k/view?usp=drive_link" },
+  { title: "2020 Nalanda College Paper", type: "Province Paper", subject: "Science for Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1cmtdghE0gMhIqdFiypYlgvSLxslcrhfI/view?usp=drive_link" },
+  { title: "2024 SFT North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1SyS41WuP7WRtsJdiSa7VSo7rmvARhxk_/view?usp=drive_link" },
+  { title: "2019 SFT Sri Jayawardanapura Education zonal Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mlQkUS_U-lIjoc0UXWGDtRwgt3sLLEQe/view?usp=drive_link" },
+  { title: "2019 SFT North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1M3aBv6fDAeMgb4Oe5-npOvQ6sbogDz5t/view?usp=sharing" },
+  
+
+
 
 
 
