@@ -230,8 +230,19 @@ const resources = [
   { title: "2019 SFT Sri Jayawardanapura Education zonal Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mlQkUS_U-lIjoc0UXWGDtRwgt3sLLEQe/view?usp=drive_link" },
   { title: "2019 SFT North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1M3aBv6fDAeMgb4Oe5-npOvQ6sbogDz5t/view?usp=sharing" },
   
-
-
+  { title: "2019 Agri Prototype Paper ", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1x7VA_i-E6pajeynOYeWfZYHsH8ziyi1z/view?usp=drive_link" },
+  { title: "2023 Agri Uva province Paper part - 2 ", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Zj8NK79Ku5yHfGA287Zswg255SRKmOJL/view?usp=drive_link" },
+  { title: "2023 Agri Western Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1fw4K04RDRjH84JBUsRzEGl4RcWp4Yheb/view?usp=drive_link" },
+  { title: "2021 Agri MCQ Central Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1UdkWicIHYUtrbbGkjSgLWBJL31hlPEaS/view?usp=drive_link" },
+  { title: "2024 Agri Southern Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1wXBFovgH52eo-i0OMMSOJUIJ7jk15o4X/view?usp=sharing" },
+  { title: "2023 Agri North Central Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1q95JVbpj58MgHtq1P3mH8pUaufCG5bxX/view?usp=sharing" },
+  { title: "2022 Agri North Central Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1duKpV60qiASxTgga2nkgoAjLDyUM9OO8/view?usp=drive_link" },
+  { title: "2025 Agri North Western Province Full paper", type: "Province Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1YjPKXj7E8HS3RCPfxjkR01qSoCsJiM0o/view?usp=drive_link" },
+  { title: "2021 Agri Sabaragamuwa Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1VfWIiJvFDcf7xQtprhxL-y8JDbrOh451/view?usp=sharing" },
+  { title: "2021 Agri MCQ Uva Province Paper ", type: "Province Paper", subject: "Agricultural Science", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1bd3l3jv_fwk1ygA0DTIOtoMSOl0xQBls/view?usp=sharing" },
+  { title: "2023 Agri Sabaragamuwa Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/14S1CvICsh_3TlyqjUumDBzBy3RVwby4i/view?usp=sharing" },
+  { title: "2023 Agri MCQ North Western Province Paper", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1TZt_56OwmWUgP2MF4MVe5nb-pLlKqDHl/view?usp=sharing" },
+  
 
 
 
@@ -332,7 +343,9 @@ const universities = [
     logo: "🎓",
     colorClass: "coral",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1MpXfQ_BQqWGZaccBh0ECcBwd7wGbiRO3/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1MpXfQ_BQqWGZaccBh0ECcBwd7wGbiRO3/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1l8Q4xq6wl6S4NOuaIrYyWo1vdnuzVCKR/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1s5ZIkehOrv6Hkly5kRdqjVZ6p5MRQIEj/view?usp=drive_link" },
     ]
   },
   {
@@ -343,18 +356,22 @@ const universities = [
     logo: "🎓",
     colorClass: "violet",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1VWoVIns_8JkyXRw8lJMOKm5RimvGwzSO/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1VWoVIns_8JkyXRw8lJMOKm5RimvGwzSO/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1IX3BD7XMEdGoJxX4jENE0F_7xAzBBQR1/view?usp=drive_link" },
+      
     ]
   },
   {
     id: "UOR",
     name: "University of Rajarata",
     shortName: "UOR",
-    intro: "",
+    intro: "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලය (Rajarata University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය අනුරාධපුර දිස්ත්‍රික්කයේ මිහින්තලේ ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා මානව ශාස්ත්‍ර, කෘෂිකර්ම, වෛද්‍ය හා සහය සෞඛ්‍ය විද්‍යා සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ. විවිධ අධ්‍යයන ක්ෂේත්‍ර ඔස්සේ දැනුම, කුසලතා සහ නවෝත්පාදන වර්ධනය කිරීම සඳහා කැපවී සිටින මෙම විශ්වවිද්‍යාලය ශ්‍රී ලංකාවේ උසස් අධ්‍යාපන පද්ධතියේ වැදගත් ස්ථානයක් දරයි.",
     logo: "🎓",
     colorClass: "Yellow",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/14FGLoIhGM4VR_rAZwpA-XbQlgkJB6D0V/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/14FGLoIhGM4VR_rAZwpA-XbQlgkJB6D0V/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1Xm_lzY2hbgtJcZBYJw1dQtue1woje5Yz/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1O9qtfs2C5iTRdphEIPTV8zD2jgbttqLP/view?usp=drive_link" },
     ]
   },
   {
@@ -365,17 +382,20 @@ const universities = [
     logo: "🎓",
     colorClass: "mint",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1C1yu81yY2hh0RflEjnwsbcSrWIYVBfsc/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1C1yu81yY2hh0RflEjnwsbcSrWIYVBfsc/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1mC7X6cXuO1x2ispen7dD5QFroZUNEIzm/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1b2-aInaI_znxtnZFBK1AHQ6PFP4sOmX7/view?usp=drive_link" },
     ]
   },
   {
-    id: "UOM",
-    name: "University of Moratuwa",
-    shortName: "UOM",
-    intro: "The University of Moratuwa is the leading technological university in Sri Lanka. It is known for producing world-class graduates in Engineering, Information Technology, and Architecture.",
+    id: "UOW",
+    name: "University of Wayaba",
+    shortName: "UOW",
+    intro: "ශ්‍රී ලංකා වයඹ විශ්වවිද්‍යාලය (Wayamba University of Sri Lanka) 1999 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය කුලියාපිටිය සහ මාකඳුර යන ප්‍රදේශ දෙකේ පිහිටි පරිශ්‍රවලින් සමන්විත වන අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ නවෝත්පාදන සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකර්ම හා වැවිලි කළමනාකරණ, ප්‍රායෝගික විද්‍යා, ව්‍යාපාර අධ්‍යයන හා මූල්‍ය, පශු සම්පත්, ධීවර හා පෝෂණ, තාක්ෂණවේද සහ වෛද්‍ය යන පීඨවලින් සමන්විත වේ. ප්‍රායෝගික දැනුම සහ වෘත්තීය කුසලතා වර්ධනය කිරීම තුළින් රටේ සමාජීය හා ආර්ථික සංවර්ධනයට දායක වන උපාධිධාරීන් බිහිකිරීම මෙම විශ්වවිද්‍යාලයේ ප්‍රධාන අරමුණකි.",
     logo: "🎓",
     colorClass: "coral",
     courses: [
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/13gq-Av2tY1S4tJW3IlkIWIJc1G9I9EaP/view?usp=drive_link" },
       
     ]
   },
@@ -383,43 +403,50 @@ const universities = [
     id: "UOC",
     name: "University of Colombo",
     shortName: "UOC",
-    intro: "Established as the oldest institution of modern higher education in Sri Lanka, the University of Colombo is renowned for its academic excellence, especially in Computing (UCSC) and Science.",
+    intro: "කොළඹ විශ්වවිද්‍යාලය (University of Colombo) ශ්‍රී ලංකාවේ පැරණිතම සහ ප්‍රමුඛතම රාජ්‍ය විශ්වවිද්‍යාලයන්ගෙන් එකක් වන අතර, ප්‍රධාන විශ්වවිද්‍යාලයක් ලෙස 1921 වර්ෂයේදී ස්ථාපිත විය. එය කොළඹ නගරයේ පිහිටා ඇති අතර කලා, අධ්‍යාපන, නීති, කළමනාකරණ හා මූල්‍ය, වෛද්‍ය, විද්‍යා, තාක්ෂණවේද, හෙද සහ පශ්චාත් උපාධි යන පීඨ රැසකින් සමන්විත වේ. එසේම, ශ්‍රී ලංකා පරිගණක අධ්‍යයනායතනය (UCSC) ද මෙම විශ්වවිද්‍යාලයට අනුබද්ධව ක්‍රියාත්මක වන අතර, තොරතුරු තාක්ෂණ සහ පරිගණක අධ්‍යයන ක්ෂේත්‍රයේ ප්‍රමුඛ අධ්‍යාපනික ආයතනයක් ලෙස සැලකේ.",
     logo: "🏛️",
     colorClass: "violet",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-lRZwQDTIyItWbRk92MlT9S2evXRBd-L/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-lRZwQDTIyItWbRk92MlT9S2evXRBd-L/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1kvV7RIfNRIwk4doXAdmTe4buEqL-93ND/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1zog0ipGjOqVYCtDre28WcQlgExt3RqjN/view?usp=drive_link" },
     ]
   },
   {
     id: "USJ",
     name: "University of Sri Jayewardenepura",
     shortName: "USJ",
-    intro: "The University of Sri Jayewardenepura is one of the largest and most prestigious universities in Sri Lanka, boasting a state-of-the-art Faculty of Technology.",
+    intro: "ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය (University of Sri Jayewardenepura) 1959 වර්ෂයේදී  විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය ගංගොඩවිල, නුගේගොඩ ප්‍රදේශයේ පිහිටා ඇති අතර මානව ශාස්ත්‍ර හා සමාජීය විද්‍යා, ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන හා වාණිජ්‍ය, වෛද්‍ය විද්‍යා, තාක්ෂණවේද, ඉංජිනේරු, සහය සෞඛ්‍ය විද්‍යා, දන්ත වෛද්‍ය, නාගරික හා ජලජ ජීව සම්පත් සහ පශ්චාත් උපාධි යන පීඨවලින් සමන්විත වේ. අධ්‍යාපනය, පර්යේෂණ සහ නවෝත්පාදන ක්ෂේත්‍රවල විශිෂ්ටත්වය සඳහා ප්‍රසිද්ධ මෙම විශ්වවිද්‍යාලය ශ්‍රී ලංකාවේ උසස් අධ්‍යාපන ක්ෂේත්‍රයේ වැදගත් ස්ථානයක් හිමි කරගෙන ඇත.",
     logo: "🦁",
     colorClass: "yellow",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1W2e1FPhW7tZeQQlnJh9L2OJ3Xr-bBG01/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1W2e1FPhW7tZeQQlnJh9L2OJ3Xr-bBG01/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1U5DHpOiYsrdaqalabgmblZSqrdyH-6dD/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1VK0zDrmETD7EVR_UooCYh4EP8tWOTPDJ/view?usp=drive_link" },
     ]
   },
   {
     id: "UOK",
     name: "University of Kelaniya",
     shortName: "UOK",
-    intro: "The University of Kelaniya is a center of excellence that offers highly sought-after technology degrees tailored to bridge the gap between academic theory and industry needs.",
+    intro: "කැලණිය විශ්වවිද්‍යාලය (University of Kelaniya) 1959 වර්ෂයේදී විද්‍යාලංකාර විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ අතර, ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයන්ගෙන් එකකි. එය ගම්පහ දිස්ත්‍රික්කයේ කැලණිය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ සමාජ සේවාවන් සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය මානව ශාස්ත්‍ර, සමාජීය විද්‍යා, වාණිජ හා කළමනාකරණ අධ්‍යයන, විද්‍යා, වෛද්‍ය, පරිගණක හා තාක්ෂණ, පශ්චාත් උපාධි අධ්‍යයන ඇතුළු විවිධ පීඨවලින් සමන්විත වේ. ගුණාත්මක අධ්‍යාපනය සහ නවෝත්පාදන පර්යේෂණ තුළින් දේශීය හා ජාත්‍යන්තර වශයෙන් දක්ෂ උපාධිධාරීන් බිහිකිරීම සඳහා මෙම විශ්වවිද්‍යාලය කැපවී සිටී.",
     logo: "🍃",
     colorClass: "mint",
     courses: [
-     { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-TX1yVZVwlD_PKesMXpdxXXHZwrv-13h/view?usp=drive_link" },
+     { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-TX1yVZVwlD_PKesMXpdxXXHZwrv-13h/view?usp=drive_link" },
+     { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/11Bpzd1B4TaMOop6hyo8aEMccSl29Vm8d/view?usp=drive_link" },
+     { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1ue8uqzIfORVLFn0qiT1dUr450ZPpVn8i/view?usp=drive_link" },
     ]
   },
   {
-    id: "UOP",
-    name: "University of Peradeniya",
-    shortName: "UOP",
-    intro: "Nestled in the lush hills of Hanthana, the University of Peradeniya is Sri Lanka's most scenic university, offering premier academic and research programs in Engineering and Science.",
+    id: "UOS",
+    name: "University of Sabaragamuwa",
+    shortName: "UOS",
+    intro: "ශ්‍රී ලංකා සබරගමුව විශ්වවිද්‍යාලය (Sabaragamuwa University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බෙලිහුල්ඔය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකාර්මික විද්‍යා, ප්‍රායෝගික විද්‍යා, භූමාතික, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා භාෂා, වෛද්‍ය සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ. විවිධ විෂය ක්ෂේත්‍ර ඔස්සේ ගුණාත්මක අධ්‍යාපනය ලබාදෙමින්, රටේ සමාජීය හා ආර්ථික සංවර්ධනයට දායක වන වෘත්තීයවේදීන් සහ පර්යේෂකයන් බිහිකිරීම සඳහා මෙම විශ්වවිද්‍යාලය කැපවී සිටී.",
     logo: "🏔️",
     colorClass: "sky",
     courses: [
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1mC7X6cXuO1x2ispen7dD5QFroZUNEIzm/view?usp=drive_link" },
       
     ]
   },
@@ -427,11 +454,13 @@ const universities = [
     id: "UWU",
     name: "Uva Wellassa University",
     shortName: "UWU",
-    intro: "Known as the 'Entrepreneurial University', Uva Wellassa University focuses on value addition to national resources and hands-on technological skills.",
+    intro: "ඌව වෙල්ලස්ස විශ්වවිද්‍යාලය (Uva Wellassa University) 2005 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ නවීන රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බදුල්ල නගරයේ පිහිටා ඇති අතර දැනුම, නවෝත්පාදන සහ වෘත්තීය කුසලතා සංවර්ධනය කෙරෙහි විශේෂ අවධානයක් යොමු කරයි. මෙම විශ්වවිද්‍යාලය විද්‍යා හා තාක්ෂණ, කළමනාකරණ, සත්ව විද්‍යා හා අපනයන කෘෂිකර්ම සහ තාක්ෂණ අධ්‍යයන යන පීඨවලින් සමන්විත වේ. ප්‍රායෝගික අධ්‍යාපනය හා කර්මාන්ත අවශ්‍යතා සමඟ සම්බන්ධිත ඉගෙනුම් අවස්ථා ලබාදෙමින්, රටේ ආර්ථික හා සමාජ සංවර්ධනයට දායක වන උපාධිධාරීන් බිහිකිරීම මෙම විශ්වවිද්‍යාලයේ ප්‍රධාන අරමුණකි.",
     logo: "💎",
     colorClass: "pink",
     courses: [
-      { name: "Introduction of Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1N1S4Kff_dxlll9P1xeYxQDAhVi_bGgQN/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1N1S4Kff_dxlll9P1xeYxQDAhVi_bGgQN/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/11mHM3TwzgANNkRmZNc-VTQZCXasbFzsN/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1B-CISXxpFWcTXqg9liGXRu2zYc3C-NQP/view?usp=drive_link" },
     ]
   }
 ];
