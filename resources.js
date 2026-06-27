@@ -316,6 +316,9 @@ const resources = [
   { title: "2018 Agri North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Qsy9cqN_mVnmxp3kfXGKCl4OJiSD4SKm/view?usp=sharing" },
   { title: "2018 Agri North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/186Ytq1zjIlXzYlHrNvY8iggrZzdWggIe/view?usp=sharing" },
   { title: "2019 Agri North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/16O8dCF6ohSeDUorkWYpXIHrI7d82Adpe/view?usp=sharing" },
+  { title: "2018 Agri North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qh-DOtH3Hn0ECrZMtKErVjolz8WG2EbA/view?usp=sharing" },
+  { title: "2024 Agri North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/14n14oNN3-lQoALgD9KuwErDcgY6px3el/view?usp=sharing" },
+  { title: "2023 Agri North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1p46fW-6ZOLo05-_s7UqK2KtZSHLxFcri/view?usp=sharing" },
 
 
   // Extra Notes
