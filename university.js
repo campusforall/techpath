@@ -63,6 +63,14 @@ if (selectedUni) {
   document.querySelector("#uniLogo").textContent = selectedUni.logo;
   document.querySelector("#uniCode").textContent = selectedUni.shortName;
 
+  const websiteLink = document.querySelector("#uniWebsite");
+  if (selectedUni.websiteUrl) {
+    websiteLink.href = selectedUni.websiteUrl;
+    websiteLink.hidden = false;
+  } else {
+    websiteLink.hidden = true;
+  }
+
   // Add theme color class to logo badge
   const logoBadge = document.querySelector("#uniLogoBadge");
   logoBadge.className = `subject-badge reveal ${selectedUni.colorClass}`;
