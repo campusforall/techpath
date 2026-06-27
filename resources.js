@@ -179,6 +179,38 @@ const resources = [
   { title: "2023 Southern Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1nsMq-Zg9Q3ZZt_AON7rqUvgnH0nu74T8/view?usp=drive_link" },
   { title: "2023 North Western Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/17dIApdDaqpCWWsdzOYYHRFBHVNuMPG1q/view?usp=drive_link" },
   { title: "2022 Sabaragamuwa Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_2jPsW8FNG2TgSoHaLARL4SWIIcLHML3/view?usp=drive_link" },
+  { title: "2020 North Western Province Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1HPGqS9MQvNv7peMJJt7J1ie_A8j722pr/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 13 1ˢᵗ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Fd2qeggTJ9_W5NvZ0PxR7MjJJ1ES2oK4/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 12 1ˢᵗ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sdNXo-DXtatlXdWfgU1B85c7MKp8Ljwd/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10ZCLQXHaIGaNdro_w5TEYP9-K61zPnpq/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/18Z0SSH7URZ6BuvrM5JAS75y_pm2xuokX/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 12 2ⁿᵈ Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1GgVpKVGSUKq4RoLUlSaORwL5YXK0l08d/view?usp=sharing" },
+  { title: "2019 Southern Province Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1tf_1jDVUNSofHqcYL4Ybhj7dKKpZWa0d/view?usp=sharing" },
+  { title: "2019 Southern Province Grade 12 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1dtVkEpYJ_8gldhRrLt223m5CLkIB0WbG/view?usp=sharing" },
+  { title: "2018 Southern Province Grade 12 3ʳᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1luSVhapFerq2t76j5lSXtRl7JmiMjBjv/view?usp=sharing" },
+  { title: "2019 Mathugama Zonal Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1VQTXN_TqJ1tj19BByjaMU89xZfVsyanM/view?usp=sharing" },
+  { title: "2019 Mathugama Zonal Grade 13 2ⁿᵈ term Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1LTWHTWRQKDhD8-d4ACC2iq9kD9Gw5IKA/view?usp=sharing" },
+  
+  { title: "2019 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Wn6EGrDvtTfE_sVG456N1DHYiNk70Erq/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mUYjqMD2ECbANl3WRywQAnXJcJR8ZdQa/view?usp=sharing" },
+  { title: "2020 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/17T17ms33Z28naOHM4z_FY4z4MfeSuZrN/view?usp=sharing" },
+  { title: "2010 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1BBIahB2M8BR1-6IODXw4f6W-Y3DtQ_6C/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1xlnoQERx-Kx5BoKwhfkxsZKnwA4uy2DT/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1SbRMSn4ENbgZ1mpZ6S6oXOqDOnCuYX93/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1OdYNhbFFRPi3O4PtFvnFsPFHAVOzCXH4/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 12 1ˢᵗterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1dTwzBtmLfRqoodKP9tT7fmqu4LuU2w8x/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1F5IQN-pUG32MvusL6mOY4waqqEV-5u2_/view?usp=sharing" },
+  { title: "2019 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sza8dp0QY0NxR9MWnSCsuH-Ue6QJ-D0r/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sza8dp0QY0NxR9MWnSCsuH-Ue6QJ-D0r/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1MB0y1e4BBqcKLWtTYdmwEqalhUyHDgn0/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/11GyFB7YQMwc3YoHMyO6kZFzW-TRbIKMn/view?usp=sharing" },
+  { title: "2023 North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1-sDo6onS-XdnEQcynjFaRWFCWqe0GhSa/view?usp=sharing" },
+  { title: "2018 Southern Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1xhzTLm5U_0NjUHbYhxAaLmfC8_BXI-gP/view?usp=sharing" },
+  { title: "2018 Southern Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10UV5TdbA4W0QI6OrfxILYhtx6K37Yyk6/view?usp=sharing" },
+  
+
+
+  { title: "2020 North Western Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1AEo-OMsEd3V9S_yqtT9-fBjNoGqo74_5/view?usp=sharing" },
   { title: "2022 North Western Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_DA2iN3sTQuNOrvS4iR_OhXn5uxmfd63/view?usp=drive_link" },
   { title: "2022 North Western Province Paper 2 ", type: "Province Paper", subject: "Information & Communication Technology", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1ug5eSCRCThfFRK92XshCFNKdRQlDygxQ/view?usp=drive_link" },
   { title: "2021 North Western Province Paper ", type: "Province Paper", subject: "Information & Communication Technology", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1ZzHagDFCv_7tsi-oGCEokQh02n8hBoLG/view?usp=drive_link" },
@@ -207,6 +239,23 @@ const resources = [
   { title: "2019 ET Southern Province ", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sYH0837w3fkOmBiQ6t_HpX853jUfP4Q7/view?usp=drive_link" },
   { title: "2019 ET Central Province ", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1JXB5SagQPtRPNmrXYJATJJzlSDmd43fy/view?usp=drive_link" },
 
+  { title: "2020 ET North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1dKavdmOHCAj9bgzLI3XMknest3r0N-uW/view?usp=sharing" },
+  { title: "2020 ET North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/137llLMb7SrX4D8uxZlx-EQO51Oiv53Te/view?usp=sharing" },
+  { title: "2019 ET North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qcWUADG33wt-LsFPYtcviQ6GJhCZPvCP/view?usp=drive_link" },
+  { title: "2018 ET North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1n4oT-gX_9E5uZGZLmDD6SflEWyz5GcQi/view?usp=sharing" },
+  { title: "2018 ET North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Bbn_PLznZotPUzwLVcZ6Iggi0i4Vqkyk/view?usp=sharing" },
+  { title: "2019 ET North Western Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1YdMb2bhTAbYds6RPDH_z0aH9QD__Snst/view?usp=sharing" },
+  { title: "2019 ET North Western Province Grade 12 1ˢᵗterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Nk0Aw-JaXtnmw-m6USeOIR5fucgHiDl9/view?usp=sharing" },
+  { title: "2019 ET North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1wthYJXHefUyGpaE1efBdw8bHew5iDXJK/view?usp=sharing" },
+  { title: "2019 ET North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/12QE0dpFNXURM1izuusG2kbHesHjKsBxf/view?usp=sharing" },
+  { title: "2018 ET North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/13zEOCZVgsChT4TKY8b0pAR-OkKP6ruhu/view?usp=sharing" },
+  { title: "2019 ET Sri-jayawardanapura Education zone Grade 13 2ⁿᵈterm II Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1NahuXQX_MrUVayY4MpIJNZT6aAt5bTBB/view?usp=sharing" },
+  { title: "2019 ET Sri-jayawardanapura Education zone Grade 13 2ⁿᵈterm I Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sXpurRBN3qcVhCOtjxoq7cj2GneSg014/view?usp=sharing" },
+  { title: "2018 ET Southern Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1RC8XtbhMtftRIKbUkOtePzATlnwT1CGK/view?usp=sharing" },
+  { title: "2018 ET Southern Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1RC8XtbhMtftRIKbUkOtePzATlnwT1CGK/view?usp=sharing" },
+  { title: "2018 ET Southern Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qhM6XFOC_HdXwN4orbw_MpCstq_hsbg6/view?usp=sharing" },
+
+
 
 
   { title: "2023 SFT Southern Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1BuIqMRPhBxWGPThBq-Se2KWqe_O9RxQs/view?usp=drive_link" },
@@ -230,6 +279,18 @@ const resources = [
   { title: "2019 SFT Sri Jayawardanapura Education zonal Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mlQkUS_U-lIjoc0UXWGDtRwgt3sLLEQe/view?usp=drive_link" },
   { title: "2019 SFT North Western Province Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1M3aBv6fDAeMgb4Oe5-npOvQ6sbogDz5t/view?usp=sharing" },
   
+  { title: "2018 SFT North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1bDtx1y4YcmUq8w3kIgDDYDcVq-QQTlAi/view?usp=sharing" },
+  { title: "2019 SFT North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1tQ-k3BEe2R7Q4KL7DPvRDc0ENrS-h4st/view?usp=sharing" },
+  { title: "2019 SFT North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1FRhM6osa-agUttsPHGMqF8wL5tKpOu0f/view?usp=sharing" },
+  { title: "2019 SFT North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/127kmeB8bfHEgaQpd0xSxs6PfYbNMyVhE/view?usp=sharing" },
+  { title: "2020 SFT North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1vg74ef8TyPSw_1kIREKmYaXiq0h0kh8Q/view?usp=sharing" },
+  { title: "2024 SFT North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Science for Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1hvGNmXSrepgzVpI4WWhAU4JUd6BFSxDJ/view?usp=sharing" },
+  { title: "2019 SFT Southern Province Grade 12 2ⁿᵈterm II Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1NTIGsiT7AvXn8Ro7_8FaGQyV52fKY_sv/view?usp=sharing" },
+  { title: "2019 SFT Southern Province Grade 13 2ⁿᵈterm II Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1a9SunzfLWAukCU-vA1YdWUoS8ynKmq-r/view?usp=sharing" },
+  { title: "2019 SFT Southern Province Grade 13 2ⁿᵈterm I Paper", type: "Province Paper", subject: "Science for Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1SsWy8ob6_QxhL9ZgsiVXygjSRED1O9rs/view?usp=sharing" },
+  { title: "2018 SFT Southern Province Grade 12 3ʳᵈterm II Paper", type: "Province Paper", subject: "Science for Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/100w4dyOfQ1yFJF64jgcrEsqAAKS0k_R2/view?usp=sharing" },
+
+
   { title: "2019 Agri Prototype Paper ", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1x7VA_i-E6pajeynOYeWfZYHsH8ziyi1z/view?usp=drive_link" },
   { title: "2023 Agri Uva province Paper part - 2 ", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Zj8NK79Ku5yHfGA287Zswg255SRKmOJL/view?usp=drive_link" },
   { title: "2023 Agri Western Province Paper part - 2", type: "Province Paper", subject: "Agricultural Science", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1fw4K04RDRjH84JBUsRzEGl4RcWp4Yheb/view?usp=drive_link" },
@@ -244,6 +305,17 @@ const resources = [
   { title: "2023 Agri MCQ North Western Province Paper", type: "Province Paper", subject: "Agricultural Science", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1TZt_56OwmWUgP2MF4MVe5nb-pLlKqDHl/view?usp=sharing" },
   
 
+  { title: "2019 Agri North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1-SmBcUt1_s2aOzKF9sS57may77TkaA7X/view?usp=sharing" },
+  { title: "2019 Agri North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1W06Wo0PHaArYWrDCADkK8O7vDMZsFmn0/view?usp=sharing" },
+  { title: "2020 Agri North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1nQjn21gnNtZKzYLVs3LPMgPlv2jkwezx/view?usp=sharing" },
+  { title: "2020 Agri North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1n2rQg8VHg-XQuKC-ysOaqKrRVUTyQe6Z/view?usp=sharing" },
+  { title: "2019 Agri North Western Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1p9hqxq6DlSa4EReVVtfcQTmF-jYEa6RG/view?usp=sharing" },
+  { title: "2019 Agri North Western Province Grade 12 1ˢᵗterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1WiRHp56HmoFr2TIzE_iUlmASomseUyzm/view?usp=sharing" },
+  { title: "2018 Agri North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1g40el_d78AoynJNeRDruVsLtApW3tYXB/view?usp=sharing" },
+  { title: "2019 Agri North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1_fPKEPGxY1hBtlhoqagtaOVpSK7X6pRx/view?usp=sharing" },
+  { title: "2018 Agri North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Qsy9cqN_mVnmxp3kfXGKCl4OJiSD4SKm/view?usp=sharing" },
+  { title: "2018 Agri North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/186Ytq1zjIlXzYlHrNvY8iggrZzdWggIe/view?usp=sharing" },
+  { title: "2019 Agri North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Agricultural Science", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/16O8dCF6ohSeDUorkWYpXIHrI7d82Adpe/view?usp=sharing" },
 
 
   // Extra Notes
@@ -339,6 +411,7 @@ const universities = [
     id: "UOR",
     name: "University of Ruhuna",
     shortName: "UOR",
+    websiteUrl: "https://www.ruh.ac.lk/",
     intro: "University of Ruhuna – එය ශ්‍රී ලංකාවේ ප්‍රධාන රාජ්‍ය විශ්වවිද්‍යාලයක් වන අතර, 1978දී ස්ථාපිත වූ අතර ප්‍රධාන පරිපාලන මධ්‍යස්ථානය Matara වේ. එහි ප්‍රධාන Faculties ලෙස Engineering, Medicine, Science, Fisheries & Marine Sciences, Allied & Health Sciences, Agriculture, Technology, Management & Finance, Humanities & Social Sciences, සහ Art යන ඒවා වේ.",
     logo: "🎓",
     colorClass: "coral",
@@ -352,22 +425,23 @@ const universities = [
     id: "UOJ",
     name: "University of Jaffna",
     shortName: "UOJ",
-    intro: "",
+    websiteUrl: "https://www.jfn.ac.lk/",
+    intro: "University of Jaffna – ශ්‍රී ලංකාවේ යාපනය ප්‍රදේශයේ පිහිටා ඇති ප්‍රමුඛතම රාජ්‍ය විශ්වවිද්‍යාලයකි. උතුරු පළාතේ උසස් අධ්‍යාපන අවශ්‍යතා සපුරාලීම සඳහා 1974 දී මෙම විශ්වවිද්‍යාලය ස්ථාපිත කරන ලදී. මෙහි කලා, විද්‍යා, වෛද්‍ය, කළමනාකරණ, ඉංජිනේරු, තාක්ෂණවේද ඇතුළු විවිධ පීඨ රැසක් ක්‍රියාත්මක වේ.",
     logo: "🎓",
     colorClass: "violet",
     courses: [
       { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1VWoVIns_8JkyXRw8lJMOKm5RimvGwzSO/view?usp=drive_link" },
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1IX3BD7XMEdGoJxX4jENE0F_7xAzBBQR1/view?usp=drive_link" },
-      
     ]
   },
   {
-    id: "UOR",
-    name: "University of Rajarata",
-    shortName: "UOR",
-    intro: "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලය (Rajarata University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය අනුරාධපුර දිස්ත්‍රික්කයේ මිහින්තලේ ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා මානව ශාස්ත්‍ර, කෘෂිකර්ම, වෛද්‍ය හා සහය සෞඛ්‍ය විද්‍යා සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ. විවිධ අධ්‍යයන ක්ෂේත්‍ර ඔස්සේ දැනුම, කුසලතා සහ නවෝත්පාදන වර්ධනය කිරීම සඳහා කැපවී සිටින මෙම විශ්වවිද්‍යාලය ශ්‍රී ලංකාවේ උසස් අධ්‍යාපන පද්ධතියේ වැදගත් ස්ථානයක් දරයි.",
+    id: "RUSL",
+    name: "Rajarata University of Sri Lanka",
+    shortName: "RUSL",
+    websiteUrl: "https://www.rjt.ac.lk/",
+    intro: "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලය (Rajarata University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය අනුරාධපුර දිස්ත්‍රික්කයේ මිහින්තලේ ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා මානව ශාස්ත්‍ර, කෘෂිකර්ම, වෛද්‍ය හා සහය සෞඛ්‍ය විද්‍යා සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ.",
     logo: "🎓",
-    colorClass: "Yellow",
+    colorClass: "yellow",
     courses: [
       { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/14FGLoIhGM4VR_rAZwpA-XbQlgkJB6D0V/view?usp=drive_link" },
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1Xm_lzY2hbgtJcZBYJw1dQtue1woje5Yz/view?usp=drive_link" },
@@ -375,10 +449,11 @@ const universities = [
     ]
   },
   {
-    id: "UOS",
-    name: "University of SEUSL",
-    shortName: "UOS",
-    intro: "",
+    id: "SEUSL",
+    name: "South Eastern University of Sri Lanka",
+    shortName: "SEUSL",
+    websiteUrl: "https://www.seu.ac.lk/",
+    intro: "ශ්‍රී ලංකා ගිනිකොණදිග විශ්වවිද්‍යාලය (South Eastern University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද රාජ්‍ය විශ්වවිද්‍යාලයකි. එය ඔලුවිල් සහ සම්මන්තුරේ ප්‍රදේශවල පිහිටා ඇති අතර කලා හා සංස්කෘතික, කළමනාකරණ හා වාණිජ්‍ය, ව්‍යවහාරික විද්‍යා, ඉංජිනේරු, තාක්ෂණවේද සහ ඉස්ලාමීය අධ්‍යයන වැනි විවිධ පීඨවලින් සමන්විත වේ.",
     logo: "🎓",
     colorClass: "mint",
     courses: [
@@ -388,21 +463,23 @@ const universities = [
     ]
   },
   {
-    id: "UOW",
-    name: "University of Wayaba",
-    shortName: "UOW",
-    intro: "ශ්‍රී ලංකා වයඹ විශ්වවිද්‍යාලය (Wayamba University of Sri Lanka) 1999 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය කුලියාපිටිය සහ මාකඳුර යන ප්‍රදේශ දෙකේ පිහිටි පරිශ්‍රවලින් සමන්විත වන අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ නවෝත්පාදන සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකර්ම හා වැවිලි කළමනාකරණ, ප්‍රායෝගික විද්‍යා, ව්‍යාපාර අධ්‍යයන හා මූල්‍ය, පශු සම්පත්, ධීවර හා පෝෂණ, තාක්ෂණවේද සහ වෛද්‍ය යන පීඨවලින් සමන්විත වේ. ප්‍රායෝගික දැනුම සහ වෘත්තීය කුසලතා වර්ධනය කිරීම තුළින් රටේ සමාජීය හා ආර්ථික සංවර්ධනයට දායක වන උපාධිධාරීන් බිහිකිරීම මෙම විශ්වවිද්‍යාලයේ ප්‍රධාන අරමුණකි.",
+    id: "WUSL",
+    name: "Wayamba University of Sri Lanka",
+    shortName: "WUSL",
+    websiteUrl: "https://www.wyb.ac.lk/",
+    intro: "ශ්‍රී ලංකා වයඹ විශ්වවිද්‍යාලය (Wayamba University of Sri Lanka) 1999 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය කුලියාපිටිය සහ මාකඳුර යන ප්‍රදේශ දෙකේ පිහිටි පරිශ්‍රවලින් සමන්විත වන අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ නවෝත්පාදන සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකර්ම හා වැවිලි කළමනාකරණ, ප්‍රායෝගික විද්‍යා, ව්‍යාපාර අධ්‍යයන හා මූල්‍ය, පශු සම්පත්, ධීවර හා පෝෂණ, තාක්ෂණවේද සහ වෛද්‍ය යන පීඨවලින් සමන්විත වේ.",
     logo: "🎓",
     colorClass: "coral",
     courses: [
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/13gq-Av2tY1S4tJW3IlkIWIJc1G9I9EaP/view?usp=drive_link" },
-      
+      { name: "BICT Course in Faculty of Technology", driveUrl: "" },
     ]
   },
   {
     id: "UOC",
     name: "University of Colombo",
     shortName: "UOC",
+    websiteUrl: "https://www.cmb.ac.lk/",
     intro: "කොළඹ විශ්වවිද්‍යාලය (University of Colombo) ශ්‍රී ලංකාවේ පැරණිතම සහ ප්‍රමුඛතම රාජ්‍ය විශ්වවිද්‍යාලයන්ගෙන් එකක් වන අතර, ප්‍රධාන විශ්වවිද්‍යාලයක් ලෙස 1921 වර්ෂයේදී ස්ථාපිත විය. එය කොළඹ නගරයේ පිහිටා ඇති අතර කලා, අධ්‍යාපන, නීති, කළමනාකරණ හා මූල්‍ය, වෛද්‍ය, විද්‍යා, තාක්ෂණවේද, හෙද සහ පශ්චාත් උපාධි යන පීඨ රැසකින් සමන්විත වේ. එසේම, ශ්‍රී ලංකා පරිගණක අධ්‍යයනායතනය (UCSC) ද මෙම විශ්වවිද්‍යාලයට අනුබද්ධව ක්‍රියාත්මක වන අතර, තොරතුරු තාක්ෂණ සහ පරිගණක අධ්‍යයන ක්ෂේත්‍රයේ ප්‍රමුඛ අධ්‍යාපනික ආයතනයක් ලෙස සැලකේ.",
     logo: "🏛️",
     colorClass: "violet",
@@ -416,7 +493,8 @@ const universities = [
     id: "USJ",
     name: "University of Sri Jayewardenepura",
     shortName: "USJ",
-    intro: "ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය (University of Sri Jayewardenepura) 1959 වර්ෂයේදී  විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය ගංගොඩවිල, නුගේගොඩ ප්‍රදේශයේ පිහිටා ඇති අතර මානව ශාස්ත්‍ර හා සමාජීය විද්‍යා, ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන හා වාණිජ්‍ය, වෛද්‍ය විද්‍යා, තාක්ෂණවේද, ඉංජිනේරු, සහය සෞඛ්‍ය විද්‍යා, දන්ත වෛද්‍ය, නාගරික හා ජලජ ජීව සම්පත් සහ පශ්චාත් උපාධි යන පීඨවලින් සමන්විත වේ. අධ්‍යාපනය, පර්යේෂණ සහ නවෝත්පාදන ක්ෂේත්‍රවල විශිෂ්ටත්වය සඳහා ප්‍රසිද්ධ මෙම විශ්වවිද්‍යාලය ශ්‍රී ලංකාවේ උසස් අධ්‍යාපන ක්ෂේත්‍රයේ වැදගත් ස්ථානයක් හිමි කරගෙන ඇත.",
+    websiteUrl: "https://www.sjp.ac.lk/",
+    intro: "ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලය (University of Sri Jayewardenepura) 1959 වර්ෂයේදී  විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය ගංගොඩවිල, නුගේගොඩ ප්‍රදේශයේ පිහිටා ඇති අතර මානව ශාස්ත්‍ර හා සමාජීය විද්‍යා, ප්‍රායෝගික විද්‍යා, කළමනාකරණ අධ්‍යයන හා වාණිජ්‍ය, වෛද්‍ය විද්‍යා, තාක්ෂණවේද, ඉංජිනේරු, සහය සෞඛ්‍ය විද්‍යා, දන්ත වෛද්‍ය, නාගරික හා ජලජ ජීව සම්පත් සහ පශ්චාත් උපාධි යන පීඨවලින් සමන්විත වේ.",
     logo: "🦁",
     colorClass: "yellow",
     courses: [
@@ -429,38 +507,54 @@ const universities = [
     id: "UOK",
     name: "University of Kelaniya",
     shortName: "UOK",
-    intro: "කැලණිය විශ්වවිද්‍යාලය (University of Kelaniya) 1959 වර්ෂයේදී විද්‍යාලංකාර විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ අතර, ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයන්ගෙන් එකකි. එය ගම්පහ දිස්ත්‍රික්කයේ කැලණිය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ සමාජ සේවාවන් සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය මානව ශාස්ත්‍ර, සමාජීය විද්‍යා, වාණිජ හා කළමනාකරණ අධ්‍යයන, විද්‍යා, වෛද්‍ය, පරිගණක හා තාක්ෂණ, පශ්චාත් උපාධි අධ්‍යයන ඇතුළු විවිධ පීඨවලින් සමන්විත වේ. ගුණාත්මක අධ්‍යාපනය සහ නවෝත්පාදන පර්යේෂණ තුළින් දේශීය හා ජාත්‍යන්තර වශයෙන් දක්ෂ උපාධිධාරීන් බිහිකිරීම සඳහා මෙම විශ්වවිද්‍යාලය කැපවී සිටී.",
+    websiteUrl: "https://www.kln.ac.lk/",
+    intro: "කැලණිය විශ්වවිද්‍යාලය (University of Kelaniya) 1959 වර්ෂයේදී විද්‍යාලංකාර විශ්වවිද්‍යාලය ලෙස ආරම්භ වූ අතර, ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයන්ගෙන් එකකි. එය ගම්පහ දිස්ත්‍රික්කයේ කැලණිය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ සමාජ සේවාවන් සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය මානව ශාස්ත්‍ර, සමාජීය විද්‍යා, වාණිජ හා කළමනාකරණ අධ්‍යයන, විද්‍යා, වෛද්‍ය, පරිගණක හා තාක්ෂණ, පශ්චාත් උපාධි අධ්‍යයන ඇතුළු විවිධ පීඨවලින් සමන්විත වේ.",
     logo: "🍃",
     colorClass: "mint",
     courses: [
-     { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-TX1yVZVwlD_PKesMXpdxXXHZwrv-13h/view?usp=drive_link" },
-     { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/11Bpzd1B4TaMOop6hyo8aEMccSl29Vm8d/view?usp=drive_link" },
-     { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1ue8uqzIfORVLFn0qiT1dUr450ZPpVn8i/view?usp=drive_link" },
+      { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1-TX1yVZVwlD_PKesMXpdxXXHZwrv-13h/view?usp=drive_link" },
+      { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/11Bpzd1B4TaMOop6hyo8aEMccSl29Vm8d/view?usp=drive_link" },
+      { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1ue8uqzIfORVLFn0qiT1dUr450ZPpVn8i/view?usp=drive_link" },
     ]
   },
   {
-    id: "UOS",
-    name: "University of Sabaragamuwa",
-    shortName: "UOS",
-    intro: "ශ්‍රී ලංකා සබරගමුව විශ්වවිද්‍යාලය (Sabaragamuwa University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බෙලිහුල්ඔය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකාර්මික විද්‍යා, ප්‍රායෝගික විද්‍යා, භූමාතික, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා භාෂා, වෛද්‍ය සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ. විවිධ විෂය ක්ෂේත්‍ර ඔස්සේ ගුණාත්මක අධ්‍යාපනය ලබාදෙමින්, රටේ සමාජීය හා ආර්ථික සංවර්ධනයට දායක වන වෘත්තීයවේදීන් සහ පර්යේෂකයන් බිහිකිරීම සඳහා මෙම විශ්වවිද්‍යාලය කැපවී සිටී.",
+    id: "SUSL",
+    name: "Sabaragamuwa University of Sri Lanka",
+    shortName: "SUSL",
+    websiteUrl: "https://www.sab.ac.lk/",
+    intro: "ශ්‍රී ලංකා සබරගමුව විශ්වවිද්‍යාලය (Sabaragamuwa University of Sri Lanka) 1995 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ ප්‍රමුඛ රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බෙලිහුල්ඔය ප්‍රදේශයේ පිහිටා ඇති අතර උසස් අධ්‍යාපනය, පර්යේෂණ සහ ප්‍රාදේශීය සංවර්ධනය සඳහා වැදගත් දායකත්වයක් සපයයි. මෙම විශ්වවිද්‍යාලය කෘෂිකාර්මික විද්‍යා, ප්‍රායෝගික විද්‍යා, භූමාතික, කළමනාකරණ අධ්‍යයන, සමාජීය විද්‍යා හා භාෂා, වෛද්‍ය සහ තාක්ෂණවේද යන පීඨවලින් සමන්විත වේ.",
     logo: "🏔️",
     colorClass: "sky",
     courses: [
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1mC7X6cXuO1x2ispen7dD5QFroZUNEIzm/view?usp=drive_link" },
-      
+      { name: "BICT Course in Faculty of Technology", driveUrl: "" },
     ]
   },
   {
     id: "UWU",
     name: "Uva Wellassa University",
     shortName: "UWU",
-    intro: "ඌව වෙල්ලස්ස විශ්වවිද්‍යාලය (Uva Wellassa University) 2005 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ නවීන රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බදුල්ල නගරයේ පිහිටා ඇති අතර දැනුම, නවෝත්පාදන සහ වෘත්තීය කුසලතා සංවර්ධනය කෙරෙහි විශේෂ අවධානයක් යොමු කරයි. මෙම විශ්වවිද්‍යාලය විද්‍යා හා තාක්ෂණ, කළමනාකරණ, සත්ව විද්‍යා හා අපනයන කෘෂිකර්ම සහ තාක්ෂණ අධ්‍යයන යන පීඨවලින් සමන්විත වේ. ප්‍රායෝගික අධ්‍යාපනය හා කර්මාන්ත අවශ්‍යතා සමඟ සම්බන්ධිත ඉගෙනුම් අවස්ථා ලබාදෙමින්, රටේ ආර්ථික හා සමාජ සංවර්ධනයට දායක වන උපාධිධාරීන් බිහිකිරීම මෙම විශ්වවිද්‍යාලයේ ප්‍රධාන අරමුණකි.",
+    websiteUrl: "https://www.uwu.ac.lk/",
+    intro: "ඌව වෙල්ලස්ස විශ්වවිද්‍යාලය (Uva Wellassa University) 2005 වර්ෂයේදී ස්ථාපිත කරන ලද ශ්‍රී ලංකාවේ නවීන රාජ්‍ය විශ්වවිද්‍යාලයකි. එය බදුල්ල නගරයේ පිහිටා ඇති අතර දැනුම, නවෝත්පාදන සහ වෘත්තීය කුසලතා සංවර්ධනය කෙරෙහි විශේෂ අවධානයක් යොමු කරයි. මෙම විශ්වවිද්‍යාලය විද්‍යා හා තාක්ෂණ, කළමනාකරණ, සත්ව විද්‍යා හා අපනයන කෘෂිකර්ම සහ තාක්ෂණ අධ්‍යයන යන පීඨවලින් සමන්විත වේ.",
     logo: "💎",
     colorClass: "pink",
     courses: [
       { name: "BBST Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1N1S4Kff_dxlll9P1xeYxQDAhVi_bGgQN/view?usp=drive_link" },
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/11mHM3TwzgANNkRmZNc-VTQZCXasbFzsN/view?usp=drive_link" },
       { name: "BICT Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1B-CISXxpFWcTXqg9liGXRu2zYc3C-NQP/view?usp=drive_link" },
+    ]
+  },
+  {
+    id: "VTA",
+    name: "Vocational Training Authority",
+    shortName: "VTA",
+    websiteUrl: "https://course.vta.lk/",
+    intro: "වෘත්තීය පුහුණු අධිකාරිය (Vocational Training Authority - VTA) ශ්‍රී ලංකාවේ තරුණ තරුණියන්ට සහ රැකියා අපේක්ෂකයන්ට වෘත්තීය හා තාක්ෂණික අධ්‍යාපනය ලබාදෙන ප්‍රමුඛ රාජ්‍ය ආයතනයකි. 1995 වර්ෂයේදී ස්ථාපිත කරන ලද මෙම ආයතනය, රට පුරා පිහිටි පුහුණු මධ්‍යස්ථාන හරහා තොරතුරු තාක්ෂණය, ඉංජිනේරු, විදුලි, ඉදිකිරීම්, ආගන්තුක සත්කාර සහ තවත් බොහෝ ක්ෂේත්‍රවල පුහුණු වැඩසටහන් පවත්වයි. කර්මාන්ත ක්ෂේත්‍රයේ අවශ්‍යතා සපුරාලන දක්ෂ හා වෘත්තීයමය ශ්‍රම බලකායක් බිහිකිරීම VTA ආයතනයේ ප්‍රධාන අරමුණ වේ.",
+    logo: "💎",
+    colorClass: "gray",
+    courses: [
+      { name: "Vocational Training Authority", driveUrl: "https://drive.google.com/file/d/1NNDVR-HNq4_C6iXI4F8YrJOyV_X01dZW/view?usp=drive_link" },
+      { name: "Courses 2026", driveUrl: "https://drive.google.com/file/d/1-5cU2ZgwH42Gd2HxRSUByqpF2v-9F9oY/view?usp=drive_link" },
     ]
   }
 ];
