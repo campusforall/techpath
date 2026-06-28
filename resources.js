@@ -10,7 +10,7 @@ const resources = [
   { title: "2016 A/L Engineering Technology", type: "Past Paper", subject: "Engineering Technology", year: 2016, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1J8822yRmbLZv_tdSiI54pKjkcgPikNJ-/view?usp=drive_link" },
   { title: "2015 A/L Engineering Technology", type: "Past Paper", subject: "Engineering Technology", year: 2015, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Ff5mjT7omwdMa7naknG8ODNuVUG9rbyo/view?usp=drive_link" },
 
-  { title: "2024 A/L Science for Technology", type: "Past Paper", subject: "Science for Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/" },
+  { title: "2024 A/L Science for Technology", type: "Past Paper", subject: "Science for Technology", year: 2024, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sQl63mi8IpmVRjil3uCjR42VC3N524md/view?usp=drive_link" },
   { title: "2023 A/L Science for Technology", type: "Past Paper", subject: "Science for Technology", year: 2023, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1YCMcMALYYPDCWdhI3XD1fGVxGjjxtehl/view?usp=drive_link" },
   { title: "2022 A/L Science for Technology", type: "Past Paper", subject: "Science for Technology", year: 2022, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1CktRVMFqpd77iLPOfAbstLvqzdVR0NsH/view?usp=drive_link" },
   { title: "2021 A/L Science for Technology", type: "Past Paper", subject: "Science for Technology", year: 2021, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1RjC9qrdJfBkprgaLeRnB0JCAySl44F7x/view?usp=drive_link" },
@@ -164,6 +164,11 @@ const resources = [
   { title: "ICT Networking", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1nZQyXUTN7Kmaq60SW1AELXU0N4tnUKhz/view?usp=drive_link" },
   { title: "ICT Operating System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1E80C5mX21wuLc31k4-dU3hcN8IyGglzj/view?usp=drive_link" },
   { title: "ICT System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1cvy30J-g_x0HS1ftYxfpIVQlgv46y8Sq/view?usp=drive_link" },
+
+
+  { title: "Agri ශාක පෝෂණය", type: "Question-wise Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1YvL2jESJOSWjXvnq2NurZ95MayHjUGRM/view?usp=drive_link" },
+  { title: "Agri බිම් සැකසීම", type: "Question-wise Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1zjo4MgBP7nQfmb9qCaJO0nJOwxhJ_fyC/view?usp=drive_link" },
+  { title: "Agri Plant Propagation", type: "Question-wise Paper", subject: "Agricultural Science", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10nAHceuiEcLQ-n3lOnpV0oTCEJ18tMo1/view?usp=drive_link" },
   
 
 
