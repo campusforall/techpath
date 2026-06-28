@@ -150,16 +150,19 @@ const resources = [
   { title: "SFT Physics", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1tJ7nIF1ebtnHE30qCBGILi1dFcS-hQTb/view?usp=drive_link" },
   { title: "SFT Statistics", type: "Question-wise Paper", subject: "Science for Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1jbyIat6nEYVUdbKOkO8rm-oViL99lgnT/view?usp=drive_link" },
 
-  { title: "ET MCQ Topic-wise Collection", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/" },
-  
+  { title: "ET Civil", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1C0KjlnOQUkyITAavTFcc02ej6OfnR7e5/view?usp=drive_link" },
+  { title: "ET Electricals", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1BHPLG8sxBHfXQRbByFiw-lh249O3icT_/view?usp=drive_link" },
+  { title: "ET Mechanical", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1pNupA0aSW_U0gigbt6HejSWouPDx87YS/view?usp=drive_link" },
+  { title: "ET Drawing", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1iLmudDrrnqxDIAYlXgrNTlnjq5FLq_y9/view?usp=drive_link" },
+  { title: "ET Electronics", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1jQfrMVqfsHKHV8_WC2-5q1VqhSkNthPp/view?usp=drive_link" },
+  { title: "ET Automobile", type: "Question-wise Paper", subject: "Engineering Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/10USPGpNCYasFDPp8MF5vAea0htWFLptz/view?usp=drive_link" },
 
-  { title: "ICT Programming Question Bank", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1PK19pMH6oEooHCKc8ctnBXiBMFcQ-K56/view?usp=drive_link" },
+  { title: "ICT Programming", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1PK19pMH6oEooHCKc8ctnBXiBMFcQ-K56/view?usp=drive_link" },
   { title: "ICT Database", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1fSlDya8pQrFZ9tBlRhne9Lyz4QArO45Y/view?usp=drive_link" },
   { title: "ICT E-Business & IOT", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1ZOvfcsDTQqbWF1mEaKH6wPBKSI4-cIpy/view?usp=drive_link" },
   { title: "ICT Logic Gate", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1sIAJ_fxYdRCrSm3CAQl_1Gdyl7PsTd0f/view?usp=drive_link" },
   { title: "ICT Networking", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1nZQyXUTN7Kmaq60SW1AELXU0N4tnUKhz/view?usp=drive_link" },
   { title: "ICT Operating System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1E80C5mX21wuLc31k4-dU3hcN8IyGglzj/view?usp=drive_link" },
-  { title: "ICT Programming", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1PK19pMH6oEooHCKc8ctnBXiBMFcQ-K56/view?usp=drive_link" },
   { title: "ICT System", type: "Question-wise Paper", subject: "Information & Communication Technology", year: 2025, medium: "English", driveUrl: "https://drive.google.com/file/d/1cvy30J-g_x0HS1ftYxfpIVQlgv46y8Sq/view?usp=drive_link" },
   
 
@@ -193,14 +196,13 @@ const resources = [
   
   { title: "2019 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1Wn6EGrDvtTfE_sVG456N1DHYiNk70Erq/view?usp=sharing" },
   { title: "2019 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1mUYjqMD2ECbANl3WRywQAnXJcJR8ZdQa/view?usp=sharing" },
-  { title: "2020 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/17T17ms33Z28naOHM4z_FY4z4MfeSuZrN/view?usp=sharing" },
-  { title: "2010 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1BBIahB2M8BR1-6IODXw4f6W-Y3DtQ_6C/view?usp=sharing" },
+  { title: "2020 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2020, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1BBIahB2M8BR1-6IODXw4f6W-Y3DtQ_6C/view?usp=sharing" },
   { title: "2019 North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1xlnoQERx-Kx5BoKwhfkxsZKnwA4uy2DT/view?usp=sharing" },
   { title: "2019 North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1SbRMSn4ENbgZ1mpZ6S6oXOqDOnCuYX93/view?usp=sharing" },
   { title: "2019 North Western Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1OdYNhbFFRPi3O4PtFvnFsPFHAVOzCXH4/view?usp=sharing" },
   { title: "2019 North Western Province Grade 12 1ˢᵗterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1dTwzBtmLfRqoodKP9tT7fmqu4LuU2w8x/view?usp=sharing" },
   { title: "2018 North Western Province Grade 13 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1F5IQN-pUG32MvusL6mOY4waqqEV-5u2_/view?usp=sharing" },
-  { title: "2019 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sza8dp0QY0NxR9MWnSCsuH-Ue6QJ-D0r/view?usp=sharing" },
+  { title: "2018 North Western Province Grade 13 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sza8dp0QY0NxR9MWnSCsuH-Ue6QJ-D0r/view?usp=sharing" },
   { title: "2018 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sza8dp0QY0NxR9MWnSCsuH-Ue6QJ-D0r/view?usp=sharing" },
   { title: "2018 North Western Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1MB0y1e4BBqcKLWtTYdmwEqalhUyHDgn0/view?usp=sharing" },
   { title: "2018 North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Bio Systems Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/11GyFB7YQMwc3YoHMyO6kZFzW-TRbIKMn/view?usp=sharing" },
@@ -251,7 +253,6 @@ const resources = [
   { title: "2018 ET North Western Province Grade 12 2ⁿᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/13zEOCZVgsChT4TKY8b0pAR-OkKP6ruhu/view?usp=sharing" },
   { title: "2019 ET Sri-jayawardanapura Education zone Grade 13 2ⁿᵈterm II Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1NahuXQX_MrUVayY4MpIJNZT6aAt5bTBB/view?usp=sharing" },
   { title: "2019 ET Sri-jayawardanapura Education zone Grade 13 2ⁿᵈterm I Paper", type: "Province Paper", subject: "Engineering Technology", year: 2019, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1sXpurRBN3qcVhCOtjxoq7cj2GneSg014/view?usp=sharing" },
-  { title: "2018 ET Southern Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1RC8XtbhMtftRIKbUkOtePzATlnwT1CGK/view?usp=sharing" },
   { title: "2018 ET Southern Province Grade 12 3ʳᵈterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1RC8XtbhMtftRIKbUkOtePzATlnwT1CGK/view?usp=sharing" },
   { title: "2018 ET Southern Province Grade 13 1ˢᵗterm Paper", type: "Province Paper", subject: "Engineering Technology", year: 2018, medium: "Sinhala", driveUrl: "https://drive.google.com/file/d/1qhM6XFOC_HdXwN4orbw_MpCstq_hsbg6/view?usp=sharing" },
 
@@ -344,7 +345,6 @@ const resources = [
   { title: "SFT Natural Products", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1wu3CWefbVZufmdlTVqO230oZqJShxqd7?usp=drive_link" },
   { title: "SFT Area and Volume", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1tNn5svuq3nXXBVoUxlv32YbKYRhQdXlt?usp=drive_link" },
   { title: "SFT Electricity", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/17P88lMfbm1Zkka_bEk4dukxEqc1MSgaA?usp=drive_link" },
-  { title: "SFT Chemical Industry", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1dkw1W3WWrmZr33cnoiw7T0ifLCwE89Zr?usp=drive_link" },
   { title: "SFT Chemical Industry", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1dkw1W3WWrmZr33cnoiw7T0ifLCwE89Zr?usp=drive_link" },
   { title: "SFT Measuring Instruments", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1pJupRsmCcFcdDzvCNQPi4KhXDFpY3NK5?usp=drive_link" },
   { title: "SFT Rotational motion", type: "Extra Notes", subject: "Science for Technology", year: 2025, medium: "Sinhala", driveUrl: "https://drive.google.com/drive/folders/1Nq6SIUP50kaMQEmK2Q9ICrFeD-xDzdPG?usp=drive_link" },
@@ -475,7 +475,7 @@ const universities = [
     colorClass: "coral",
     courses: [
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/13gq-Av2tY1S4tJW3IlkIWIJc1G9I9EaP/view?usp=drive_link" },
-      { name: "BICT Course in Faculty of Technology", driveUrl: "" },
+    
     ]
   },
   {
@@ -530,7 +530,7 @@ const universities = [
     colorClass: "sky",
     courses: [
       { name: "BET Course in Faculty of Technology", driveUrl: "https://drive.google.com/file/d/1mC7X6cXuO1x2ispen7dD5QFroZUNEIzm/view?usp=drive_link" },
-      { name: "BICT Course in Faculty of Technology", driveUrl: "" },
+      
     ]
   },
   {
